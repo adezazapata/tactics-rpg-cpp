@@ -1,0 +1,82 @@
+Tactics RPG View-Only License
+
+Copyright (c) 2026 Aarón Deza Zapata. All rights reserved.
+
+1. PURPOSE
+
+This repository (the "Software") is published as a personal portfolio
+project so that its source code can be read and evaluated. It is
+source-available, not open-source software.
+
+2. PERMITTED USE
+
+Subject to the restrictions in section 3, you may, free of charge:
+
+  (a) view and read the source code, documentation and other materials in
+      this repository;
+
+  (b) fork the repository on GitHub, and clone, download and compile it on
+      your own computer, solely for personal study and for evaluating the
+      author's work (including evaluation by prospective employers and
+      recruiters); and
+
+  (c) run the compiled software locally, solely for the purposes in (b).
+
+3. RESTRICTIONS
+
+Without prior written permission from the author, you may not:
+
+  (a) copy, reproduce or reuse the Software, in whole or in part, in any
+      other project, product or service;
+
+  (b) modify, adapt, translate or create derivative works of the Software,
+      except for private local changes made only for the purposes in
+      section 2(b) and never shared with anyone else;
+
+  (c) distribute, publish, sublicense, sell, rent or lease the Software or
+      any binary built from it, other than the forks that GitHub's Terms
+      of Service allow;
+
+  (d) use the Software, or anything built from it, for any commercial
+      purpose; or
+
+  (e) remove or alter this license or any copyright notice.
+
+4. CONTRIBUTIONS
+
+This project does not accept contributions. Material submitted to the
+author despite this notice creates no obligation for the author to review,
+accept or credit it.
+
+5. RIGHTS THAT ARE NOT LIMITED
+
+Nothing in this license limits the rights that GitHub's Terms of Service
+grant to other users to view and fork public repositories, nor any rights
+you have under applicable law, such as fair use or the right to quote.
+
+6. THIRD-PARTY COMPONENTS
+
+This repository does not contain third-party library code. The build
+downloads third-party libraries (such as raylib, Dear ImGui, nlohmann/json
+and Catch2) from their own sources. Those libraries, and any third-party
+assets that may be added in the future, remain under their own licenses,
+which this license does not change.
+
+7. TERMINATION
+
+Your permissions under this license end automatically if you breach any of
+its terms.
+
+8. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
+ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+9. CONTACT
+
+To request permission for any use not covered above, contact the author at
+[aaron_de_za@hotmail.es].

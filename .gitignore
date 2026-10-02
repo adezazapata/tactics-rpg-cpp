@@ -1,0 +1,60 @@
+# --- Compilation exits ---
+/build/
+/out/
+/install/
+/cmake-build-*/
+CMakeUserPresets.json
+compile_commands.json
+
+# --- Compilated elements ---
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.obj
+*.o
+*.a
+*.so
+*.so.*
+*.dylib
+*.pch
+
+# --- IDEs & editors ---
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+*.sln.docstates
+*.swp
+*~
+
+# --- Profiling y sanitizers ---
+*.gcda
+*.gcno
+*.gcov
+*.profraw
+*.profdata
+coverage/
+*.tracy
+
+# --- In-game execution files ---
+/saves/
+*.sav
+*.log
+
+# --- OS ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Local & secrets ---
+.env
+.env.*
+
+# --- Cache ---
+.cache/
